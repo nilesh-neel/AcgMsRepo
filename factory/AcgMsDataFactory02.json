@@ -1,0 +1,9 @@
+{
+	"name": "AcgMsDataFactory02",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1923e4d8-1ea0-4d7b-834e-9810aaef33be",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
